@@ -1,0 +1,1 @@
+This lab exercise provided hands-on experience with Git and GitHub, reinforcing key concepts such as branching, committing, and deploying via GitHub Pages. Successfully completing the tasks demonstrated the ability to manage version control effectively and deploy a simple web page in a structured workflow.
