@@ -1,1 +1,2 @@
-2613224, Arno Strauss
+student ID: 2613224
+name: Arno Strauss
